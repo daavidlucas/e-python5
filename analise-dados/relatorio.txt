@@ -1,0 +1,25 @@
+================================================================
+                 RELATORIO DE ANALISE DE DADOS                  
+================================================================
+
+ESTATISTICAS
+Total de registros: 10
+Registros validos: 4
+Registros invalidos: 6
+Taxa de aprovacao: 40.0%
+Idade media dos validos: 29.8 anos
+
+REGISTROS VALIDOS
+Maria Silva      maria.silva@email.com        123.456.789-09
+João Pereira     joao_pereira@empresa.com.br  987.654.321-00
+Rafael Gomes     rafael.gomes@email.com       666.777.888-99
+Julia Martins    julia.martins@email.com      777.888.999-00
+
+REGISTROS INVALIDOS
+Linha  4 | Ana Souza        | E-mail invalido: ana.souza@email
+Linha  5 | Carlos Lima      | CPF invalido: 12345678900
+Linha  6 | Beatriz Costa    | Telefone invalido: 98 99999-1111
+Linha  7 | Pedro Alves      | Data invalida: 32/01/1999
+Linha  8 | Lucas Rocha      | Idade nao numerica: abc
+Linha  9 | Fernanda Dias    | Idade fora do intervalo permitido: 150
+================================================================

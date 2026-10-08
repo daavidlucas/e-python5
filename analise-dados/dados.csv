@@ -1,0 +1,11 @@
+nome,email,cpf,telefone,data,idade
+Maria Silva,maria.silva@email.com,123.456.789-09,(98) 99123-4567,15/03/1995,30
+João Pereira,joao_pereira@empresa.com.br,987.654.321-00,(11) 3456-7890,22/07/1988,37
+Ana Souza,ana.souza@email,111.222.333-44,(21) 98765-4321,10/10/2000,25
+Carlos Lima,carlos.lima@email.com,12345678900,(31) 99876-5432,05/12/1990,35
+Beatriz Costa,beatriz@email.com,222.333.444-55,98 99999-1111,18/04/1992,33
+Pedro Alves,pedro.alves@email.com,333.444.555-66,(85) 98888-7777,32/01/1999,26
+Lucas Rocha,lucas.rocha@email.com,444.555.666-77,(62) 97777-6666,09/09/1985,abc
+Fernanda Dias,fernanda.dias@email.com,555.666.777-88,(71) 96666-5555,27/11/1970,150
+Rafael Gomes,rafael.gomes@email.com,666.777.888-99,(41) 3333-2222,14/02/2001,24
+Julia Martins,julia.martins@email.com,777.888.999-00,(51) 95555-4444,03/06/1998,28
